@@ -1,0 +1,7 @@
+#chart_div, #chart_divA{
+	display: inline-block;
+}
+
+#chart_div2, #chart_divB {
+	float: left;
+}
